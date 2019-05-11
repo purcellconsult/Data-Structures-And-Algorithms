@@ -6,8 +6,8 @@
 # pop(): removes top item from stack  O(1)
 # peek(): views top item in stack(doesn't remove)  O(1)
 # is_empty(): checks to see if stack is empty  O(1)
-#
-#
+# beautify(): An additional method that formats the out
+# of stacks vertically.
 #
 # By Doug Purcell
 # http://www.purcellconsult.com
